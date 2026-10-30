@@ -1,8 +1,7 @@
 Source: Arkansas State Legislature, Bureau of Legislative Research, https://arkleg.state.ar.us/Acts (retrieved 2026-10-30).
 
 Only facts are copied (Act number, bill number, title, approval date, address): facts are not copyrightable, and the Acts
-pages state no copyright claim. arkleg.state.ar.us robots.txt reads "User-agent: *  Allow: /" and disallows only ChatGPT-User
-and ChatGPT. No Act text, no Arkansas Code text and no annotation is used.
+pages state no copyright claim. No Act text, no Arkansas Code text and no annotation is used.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
