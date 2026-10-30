@@ -1,0 +1,109 @@
+{
+ "country": "US-AR",
+ "acts": [
+  {
+   "slug": "catalogue-2025r",
+   "short": "Acts 2025R catalogue",
+   "title": "Catalogue of Acts 1 to 301 of the Arkansas 2025 Regular Session (number, bill, title and approval date only; no Act text)",
+   "url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "f564465d16f96db87b550291297944edd1d20d127ba39a89bb7d7717237a48ed"
+    },
+    {
+     "from": "2025-01-27",
+     "units": 9,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "98f4c3ccaa101a1c5bd8f7420a918304008f9dec3c97588302fca4fb421a6a7b"
+    },
+    {
+     "from": "2025-01-30",
+     "units": 13,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "93a4e169749669a136740bb8198aad2f3676a13844630c8d71d099a6b0f9a5da"
+    },
+    {
+     "from": "2025-02-03",
+     "units": 15,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "67d8862539242c64c79db460fce4eb448d9c3aa2a38b2febcfde61f603adf0cf"
+    },
+    {
+     "from": "2025-02-06",
+     "units": 23,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "7b2a5d75c825802ce49dd56a63fce3d7579b35b606cb27b604dcffdb98c8d24c"
+    },
+    {
+     "from": "2025-02-10",
+     "units": 24,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "74c770146b57ef78b1c6861248d518df20eb41bfa42aa8d064fa26dae49d2add"
+    },
+    {
+     "from": "2025-02-11",
+     "units": 47,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "484572a54d8797109d1ca67cb54bb5e94121d2d79eb327d3ad00bbf78cb6f6e0"
+    },
+    {
+     "from": "2025-02-13",
+     "units": 96,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "5971238effaa504ec387ba66178803feb1eb2595b08eee54904e993203741bb9"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 120,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "bf3740e294be1ce277201ece48f20159576febf734efe622966d7bd7a7a91aa2"
+    },
+    {
+     "from": "2025-02-20",
+     "units": 132,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "6ad00195a29147b21547f5847e0095e51cba92849d2260787edf8a26a1a89eeb"
+    },
+    {
+     "from": "2025-02-25",
+     "units": 193,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "7fc1bb2b5474d4a0db0dd7a5c8c0ffd6e8edfa79ccd7c2cac68df00062cf68e7"
+    },
+    {
+     "from": "2025-02-27",
+     "units": 227,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "be112356497669ab66b9a180285ebf03749371378ed08af13d49f9f0150d91f8"
+    },
+    {
+     "from": "2025-03-04",
+     "units": 243,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "f950150420da85d49cc0343610293e7fa8ae14aecfb9a30a22625f659f38ce76"
+    },
+    {
+     "from": "2025-03-06",
+     "units": 257,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "14d3c70ea19a7c4302ac32df36beb3eb17489953274812332c10afcb9eeda2de"
+    },
+    {
+     "from": "2025-03-12",
+     "units": 298,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "dc7dcef684c63d71fee4a870dbfb006850b9d91c35dfbf122843c3815a512f11"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 300,
+     "source_url": "https://arkleg.state.ar.us/Acts/SearchByRange?ddBienniumSession=2025%2F2025R",
+     "sha256": "86d2cfa2a6b641d1d5d3a56acca9fe606e21ab8d49c93545fc2eea93f84af6da"
+    }
+   ]
+  }
+ ]
+}
